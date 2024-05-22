@@ -1,7 +1,7 @@
 "use client"
 import Footer from '@/app/Component/Footer';
 import Navbar from '@/app/Component/Nav';
-import { data } from '@/app/data/page';
+import { data } from '@/app/data/data';
 import React, { useEffect, useState } from 'react';
 import { SpinnerCircular } from "spinners-react";
 

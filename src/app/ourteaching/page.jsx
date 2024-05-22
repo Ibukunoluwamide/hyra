@@ -1,7 +1,7 @@
 "use client";
 import React from 'react';
 import Link from 'next/link';
-import { data } from '../data/page';
+import { data } from '../data/data';
 import Footer from '../Component/Footer';
 import Navbarcom from '../Component/Nav';
 
